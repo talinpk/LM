@@ -1,0 +1,18 @@
+table {
+    text-align: center;
+    width: 50%;
+    min-width: 300px;
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.aluno {
+    text-align: left;
+}
+
+.impar {
+    background-color: rgb(240,248,255);
+}

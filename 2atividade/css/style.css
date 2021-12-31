@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+    color: darkslategrey;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    }
+h1, h1 a{
+    color: darkblue;
+    font-size: 30px;
+    }
+h2{
+    background-color: lightskyblue;
+    color: darkblue;
+}    
+a{
+    color: darkblue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+ 
+a:visited{
+    color: darkblue;
+    text-decoration: none;
+}
+
+h1 a, h1 a:visited {
+    color: white;
+}
+h2 a, h2 a:visited {
+    color: lightskyblue;
+}
+h1:hover a, h2:hover a {
+    color:darkblue
+}
+
+

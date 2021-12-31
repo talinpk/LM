@@ -1,0 +1,11 @@
+#181818 Preto da hotbar
+
+#303030 cinza 
+
+#78a7ff Azul Botões
+
+#ffee96 Amarelo background/botões 
+#ffeb3b Amarelo
+
+98   24
+900 15000
