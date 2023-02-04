@@ -56,6 +56,7 @@ padding-bottom: 10vh;
 line-height: 4vw;
 padding-left: 30px;
 font-family: var(--fonte3);
+background-attachment: fixed;
 }
 
 section > p {
@@ -64,12 +65,15 @@ section > p {
 }
 
 #img1{
-    background-image: url('../imagens/');
+    background-image: url('../imagens/walppaper01.jpg');
+    background-position: center center;
+    background-size: cover;
 
 }
 
 #img2{
-
+    background-image: url('../imagens/walppaper02.jpg');
+    background-size: cover;
 }
 
 .normal{ 
@@ -80,13 +84,14 @@ section > p {
 .imagem{
     background-color: rgb(77, 77, 77);
     color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.466);
 
 }
 
 .imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.452);
+    background-color: rgba(7, 7, 7, 0.589);
     
 }
  
