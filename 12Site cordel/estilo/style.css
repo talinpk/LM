@@ -58,6 +58,20 @@ padding-left: 30px;
 font-family: var(--fonte3);
 }
 
+section > p {
+    padding-bottom: 2em;
+
+}
+
+#img1{
+    background-image: url('../imagens/');
+
+}
+
+#img2{
+
+}
+
 .normal{ 
     background-color: white;
     color: black;
