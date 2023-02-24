@@ -9,3 +9,5 @@ console.log(matriculas)
 for (let matricula of matriculas) {
     console.log(matricula);
     }
+
+matriculas.forEach(matricula => console.log(matricula));
