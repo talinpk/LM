@@ -1,5 +1,6 @@
 
-let x = 10;
-let y = 20;
-
-console.log(x<y)
+let (serie ===3) {
+    console.log("boa sorte !");
+} else if (serie ===2){
+    
+}
