@@ -1,6 +1,3 @@
-
-let (serie ===3) {
-    console.log("boa sorte !");
-} else if (serie ===2){
-    
-}
+for (let i = 0; i <= 7; i ++) {
+    console.log("#");
+  }
