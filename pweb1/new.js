@@ -21,3 +21,37 @@ let usuarios = [
 ];
 
 console.log(usuarios[0]);
+
+let alunos = [
+    {
+      "matricula": "345",
+      "nome": "Carlos",
+      "idade": 20,
+    },
+    {
+      "matricula": "246",
+      "nome": "João",
+      "idade": 33,
+    },
+    {
+      "matricula": "156",
+      "nome": "Maria",
+      "idade": 18,
+    },
+    {
+      "matricula": "543",
+      "nome": "José",
+      "idade": 40,
+    },
+    {
+      "matricula": "765",
+      "nome": "Sebastião",
+      "idade": 25,
+    },  
+  ];
+
+for (let i = 0; i < alunos.length; i++){
+    if(alunos [i].idade>30 ){
+        console.log(alunos[i].nome);
+    }
+}
