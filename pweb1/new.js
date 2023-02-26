@@ -46,13 +46,13 @@ let alunos = [
     {
       "matricula": "765",
       "nome": "Sebastião",
-      "idade": 25,
+      "idade": 25 ,
     },  
   ];
 
 for (let i = 0; i < alunos.length; i++){
     if(alunos [i].idade>30 ){
         console.log(alunos[i].nome);
-        
+
     }
 }
