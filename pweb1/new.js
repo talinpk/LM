@@ -53,5 +53,6 @@ let alunos = [
 for (let i = 0; i < alunos.length; i++){
     if(alunos [i].idade>30 ){
         console.log(alunos[i].nome);
+        
     }
 }
