@@ -36,7 +36,7 @@ let alunos = [
     {
       "matricula": "156",
       "nome": "Maria",
-      "idade": 18,
+      "idade": 18 ,
     },
     {
       "matricula": "543",
