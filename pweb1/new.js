@@ -25,8 +25,8 @@ console.log(usuarios[0]);
 let alunos = [
     {
       "matricula": "345",
-      "nome": "Carlos",
-      "idade": 20,
+      "nome": "Carlos" ,
+      "idade": 20, 
     },
     {
       "matricula": "246",
