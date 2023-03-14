@@ -8,7 +8,7 @@ matriculas.forEach(matricula => console.log(matricula));
 let usuarios = [
     {
 "login": "u1",
-        "nome":"Carlos"
+        "nome":"Carlos "
     },
     {
 "login": "u2",
