@@ -12,7 +12,7 @@ let usuarios = [
     },
     {
 "login": "u2",
-        "nome":"Joaquim"
+        "nome":"Joaquim "
     },
     {
 "login": "u3",
